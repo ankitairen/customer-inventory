@@ -1,0 +1,13 @@
+{
+  "name": "customer-inventory-server",
+  "author": "Ankit Agarwal",
+  "version": "1.0.0",
+  "description": "api server to provide response for the customer search",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}

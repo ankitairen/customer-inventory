@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+.eslintcache
+*.key
+*.pem
+*.srl
+*.crt
+*.csr
+*.log
+*.iml
+.npmrc
+.idea/

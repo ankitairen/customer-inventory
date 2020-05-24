@@ -1,0 +1,66 @@
+{
+    "total": 10,
+    "count": 10,
+    "data": [
+        {
+            "customerId": 1,
+            "name": "James",
+            "age": 32,
+            "sex": "Male"
+        },
+        {
+            "customerId": 2,
+            "name": "Lenna",
+            "age": 34,
+            "sex": "Female"
+        },
+        {
+            "customerId": 3,
+            "name": "Simona",
+            "age": 32,
+            "sex": "Female"
+        },
+        {
+            "customerId": 4,
+            "name": "Mitsue",
+            "age": 33,
+            "sex": "Male"
+        },
+        {
+            "customerId": 5,
+            "name": "Sage",
+            "age": 39,
+            "sex": "Male"
+        },
+        {
+            "customerId": 6,
+            "name": "Kris",
+            "age": 29,
+            "sex": "Male"
+        },
+        {
+            "customerId": 7,
+            "name": "Minna",
+            "age": 38,
+            "sex": "Female"
+        },
+        {
+            "customerId": 8,
+            "name": "Graciela",
+            "age": 35,
+            "sex": "Female"
+        },
+        {
+            "customerId": 9,
+            "name": "Yuki",
+            "age": 25,
+            "sex": "Male"
+        },
+        {
+            "customerId": 10,
+            "name": "Fletcher",
+            "age": 27,
+            "sex": "Male"
+        }
+    ]
+}

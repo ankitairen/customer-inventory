@@ -1,0 +1,73 @@
+{
+  "total": 10,
+  "count": 10,
+  "data": [
+    {
+      "customerId": 1,
+      "addresses": [
+        "6649 N Blue Gum St",
+        "4 B Blue Ridge Blvd",
+        "8 W Cerritos Ave #54"
+      ]
+    },
+    {
+      "customerId": 2,
+      "addresses": [
+        "639 Main St",
+        "34 Center St"
+      ]
+    },
+    {
+      "customerId": 3,
+      "addresses": [
+        "3 Mcauley Dr"
+      ]
+    },
+    {
+      "customerId": 4,
+      "addresses": [
+        "7 Eads St",
+        "7 W Jackson Blvd"
+      ]
+    },
+    {
+      "customerId": 5,
+      "addresses": []
+    },
+    {
+      "customerId": 6,
+      "addresses": [
+        "228 Runamuck Pl #2808"
+      ]
+    },
+    {
+      "customerId": 7,
+      "addresses": [
+        "2371 Jerrold Ave",
+        "37275 St  Rt 17m M"
+      ]
+    },
+    {
+      "customerId": 8,
+      "addresses": [
+        "98 Connecticut Ave Nw",
+        "56 E Morehead St",
+        "73 State Road 434 E",
+        "69734 E Carrillo St"
+      ]
+    },
+    {
+      "customerId": 9,
+      "addresses": [
+        "1 State Route 27"
+      ]
+    },
+    {
+      "customerId": 10,
+      "addresses": [
+        "394 Manchester Blvd",
+        "6 S 33rd St"
+      ]
+    }
+  ]
+}
